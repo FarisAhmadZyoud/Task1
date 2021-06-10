@@ -1,0 +1,16 @@
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\task.exe
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\task.deps.json
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\task.runtimeconfig.json
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\task.runtimeconfig.dev.json
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\task.dll
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\ref\task.dll
+C:\Users\Faris Zyoud\Task\src\task\bin\Debug\net5.0\task.pdb
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.csproj.AssemblyReference.cache
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.AssemblyInfoInputs.cache
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.AssemblyInfo.cs
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.dll
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\ref\task.dll
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.pdb
+C:\Users\Faris Zyoud\Task\src\task\obj\Debug\net5.0\task.genruntimeconfig.cache
